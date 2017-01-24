@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="com.fantasyskiracer.inappbrowser"
+           id="fsr-plugin-inappbrowser"
       version="1.0.4">
 
     <name>InAppBrowser</name>
@@ -27,7 +27,6 @@
     <license>Apache 2.0</license>
     <keywords>fsr,in,app,browser,inappbrowser</keywords>
     <repo>https://github.com/jbyrdevans/fsr-plugin-inappbrowser.git</repo>
-    <issue>https://issues.apache.org/jira/browse/CB/component/12320641</issue>
 
     <engines>
       <engine name="cordova" version=">=3.1.0" /><!-- Needs cordova/urlutil -->
