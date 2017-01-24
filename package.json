@@ -1,41 +1,25 @@
 {
-  "name": "cordova-plugin-inappbrowser",
-  "version": "0.6.1-dev",
-  "description": "Cordova InAppBrowser Plugin",
+  "name": "fsr-plugin-inappbrowser",
+  "version": "1.0.4",
+  "description": "Fantasy Ski Racer InAppBrowser Plugin",
   "cordova": {
-    "id": "org.apache.cordova.inappbrowser",
+    "id": "com.fantasyskiracer.inappbrowser",
     "platforms": [
       "android",
-      "amazon-fireos",
-      "ubuntu",
-      "ios",
-      "wp7",
-      "wp8",
-      "windows8",
-      "windows",
-      "firefoxos"
+      "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-inappbrowser.git"
+    "url": "https://github.com/jbyrdevans/cordova-plugin-inappbrowser.git"
   },
   "keywords": [
-    "cordova",
+    "fsr",
     "in",
     "app",
     "browser",
     "inappbrowser",
-    "ecosystem:cordova",
-    "cordova-android",
-    "cordova-amazon-fireos",
-    "cordova-ubuntu",
-    "cordova-ios",
-    "cordova-wp7",
-    "cordova-wp8",
-    "cordova-windows8",
-    "cordova-windows",
-    "cordova-firefoxos"
+    "ecosystem:cordova"
   ],
   "engines": [
     {
